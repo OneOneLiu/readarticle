@@ -55,3 +55,4 @@
 
 %一些重新定义的风格命令
 \renewcommand{\thefootnote}{\textcolor{red}{[\arabic{footnote}]}}%这一句的作用就是把角标的数字从 1 --> [1]，加上对应的命令后也可以改颜色
+%测试修改
